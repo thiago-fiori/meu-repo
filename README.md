@@ -10,7 +10,7 @@ Repositório para atividade
 use namespace std;
 
 int main(){
-    cout << '"' << "Hello World!" << '"';
+    cout << "Hello World!" << endl;
     return 0;
 }
 ```
@@ -22,3 +22,7 @@ Lista de elementos que o readme deve conter:
 5. Hyperlinks.
 6. Imagem.
 7. Pelo menos 3 commits.
+
+Caso for codar, clique [aqui](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
+![UFLA no ranking de universidades mundial](https://ufla.br/images/noticias/2022/10_OUT/ranking_the.png)

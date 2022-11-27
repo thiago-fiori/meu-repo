@@ -25,4 +25,5 @@ Lista de elementos que o readme deve conter:
 
 Caso for codar, clique [aqui](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
+### UFLA é a 13ª melhor universidade brasileira, segundo o ranking mundial Times Higher Education
 ![UFLA no ranking de universidades mundial](https://ufla.br/images/noticias/2022/10_OUT/ranking_the.png)
